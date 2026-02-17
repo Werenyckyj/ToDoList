@@ -136,7 +136,6 @@ function loadLists() {
       const dateContainer = document.createElement("div");
       dateContainer.style.marginTop = "5px";
       dateContainer.style.display = "block";
-
       const dateSpan = document.createElement("span");
       dateSpan.style.fontSize = "0.7em";
       dateSpan.style.color = "#b8b8b8";
